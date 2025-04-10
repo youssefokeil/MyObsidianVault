@@ -13,8 +13,8 @@ Tags: #software
 - Classes of systems are placing demands on our capabilities and theories of design. The problem is large systems.
 ### 1987 No Silver Bullet
 - Software has unique characteristics when compared to other engineering products.
-- 
 
+![[SoftwareEngTimeline.png]]
 
 
 
