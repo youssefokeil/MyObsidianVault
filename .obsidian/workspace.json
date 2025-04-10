@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Software Construction.md",
+                "file": "Zettelkasten/Software Maintenance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Construction"
+              "title": "Software Maintenance"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Classification of Software Systems.md",
-                "mode": "preview",
+                "file": "Zettelkasten/History of Software Engineering.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classification of Software Systems"
+              "title": "History of Software Engineering"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Classification of Software Systems.md",
+                "file": "Zettelkasten/Software Maintenance.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Classification of Software Systems"
+              "title": "Backlinks for Software Maintenance"
             }
           },
           {
@@ -190,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,20 +201,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b461d09715449dc",
+  "active": "dc04fb099610ddcd",
   "lastOpenFiles": [
-    "Zettelkasten/Software Engineering Professional Practice.md",
-    "Zettelkasten/Software Engineering Economics.md",
-    "Zettelkasten/Software Construction.md",
     "Zettelkasten/Software Engineering.md",
-    "Untitled.canvas",
-    "Zettelkasten/Classification of Software Systems.md",
-    "Zettelkasten/Software Quality.md",
+    "Zettelkasten/Software Configuration Management.md",
     "Zettelkasten/Software Engineering Models and Methods.md",
     "Zettelkasten/Software Engineering Processes.md",
+    "Zettelkasten/Software Testing.md",
+    "Zettelkasten/Software Design.md",
+    "Zettelkasten/Software Quality.md",
+    "Zettelkasten/Software Maintenance.md",
+    "Zettelkasten/Software Construction.md",
+    "Zettelkasten/Software Engineering Economics.md",
+    "Zettelkasten/History of Software Engineering.md",
+    "Zettelkasten/Classification of Software Systems.md",
+    "Zettelkasten/Software Engineering Professional Practice.md",
+    "Untitled.canvas",
     "Zettelkasten/Software Architecture.md",
     "Zettelkasten/Agile Processes.md",
-    "Zettelkasten/History of Software Engineering.md",
     "Zettelkasten/Waterfall Processes.md",
     "Files/whatis-waterfall_model_mobile.png",
     "Files/whatis-waterfall_model_mobile.png.crdownload",
@@ -226,13 +228,9 @@
     "Files/mermaid-diagram-2025-04-10-211542.png.crdownload",
     "Zettelkasten/Brooks' Law.md",
     "Zettelkasten/Software Project Management.md",
-    "Zettelkasten/Software Configuration Management.md",
     "Files/semantic versioning.png",
     "Files/semantic versioning.png.crdownload",
     "Zettelkasten/Database Management System (DBMS).md",
-    "Zettelkasten/Software Testing.md",
-    "Zettelkasten/Software Maintenance.md",
-    "Zettelkasten/Software Design.md",
     "Zettelkasten/Software Requirements.md",
     "Zettelkasten/No Silver Bullet.md",
     "Zettelkasten/Putting Ideas Into Words.md",

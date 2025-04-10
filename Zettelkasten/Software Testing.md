@@ -27,7 +27,7 @@ Tags: #software
 - failure only occurs when the defective code is executed
 - defective code doesn't conform to its specifications (will be handled in verification), if that code is executed a failure occurs.
 ```
-if (condition)
+.if (condition)
     area = pi * radius * radius * radius; 
 ```
 

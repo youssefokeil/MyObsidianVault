@@ -15,7 +15,7 @@ Tags: #software
 - They do not benefit from SW engineering practices as they are usually implemented by a singled developer
 ### Business Systems (Type B)
 - benefit the most out of the SW engineering principles
-- Ex"
+- Ex
 	- compilers and IDEs
 	- software libraries and frameworks
 	- text-editors and spreadsheets
