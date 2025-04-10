@@ -8,10 +8,10 @@ Tags: #software
 1. [[Software Requirements]]
 2. Software Architecture
 3. [[Software Design]]
-4. Software Construction
-5. Software Testing
+4. [[Software Construction]]
+5. [[Software Testing]]
 6. Software Engineering Operations
-7. Software Maintenance
+7. [[Software Maintenance]]
 8. Software Configuration Management
 9. Software Engineering Management
 10. Software Engineering Processes

@@ -154,7 +154,7 @@
               "type": "markdown",
               "state": {
                 "file": "Zettelkasten/Software Design.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -329,10 +329,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f878c27a92235ed",
+  "active": "43f95854e26b2c85",
   "lastOpenFiles": [
-    "Zettelkasten/Software Design.md",
+    "Zettelkasten/Software Testing.md",
     "Zettelkasten/Software Engineering.md",
+    "Zettelkasten/Software Maintenance.md",
+    "Zettelkasten/Software Construction.md",
+    "Zettelkasten/Software Design.md",
     "Zettelkasten/Software Requirements.md",
     "Zettelkasten/No Silver Bullet.md",
     "Zettelkasten/History of Software Engineering.md",
@@ -357,9 +360,6 @@
     "Zettelkasten/cpu burst.md",
     "Zettelkasten/Clock Skew.md",
     "Zettelkasten/No Global Clock.md",
-    "Zettelkasten/Transparency of Evals in PFs.md",
-    "Zettelkasten/Amendments to PFs.md",
-    "Zettelkasten/Accountability of PFs.md",
     "Files/inner-outer-alignment-person-diagram-2.png",
     "Files/inner-outer-alignment-person-diagram-2.png.crdownload",
     "Files/1-s2.0-S0016328721001932-gr2.jpg",
