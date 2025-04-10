@@ -1,0 +1,384 @@
+{
+  "main": {
+    "id": "861294fae374afb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce3822e9c073d17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ffdbbe8c32b4b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Database Management System (DBMS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database Management System (DBMS)"
+            }
+          },
+          {
+            "id": "8ead7aa9d4d68beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Database System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database System"
+            }
+          },
+          {
+            "id": "28e695fb57e58c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Actors on the scene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actors on the scene"
+            }
+          },
+          {
+            "id": "fb98313b8d66ee36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Actors behind the scene.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actors behind the scene"
+            }
+          },
+          {
+            "id": "e86c87c98c5592c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Data Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Model"
+            }
+          },
+          {
+            "id": "8d1a36f70615bfce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Database Schema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database Schema"
+            }
+          },
+          {
+            "id": "8665ef863a302a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/PhD & Masters Tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PhD & Masters Tips"
+            }
+          },
+          {
+            "id": "173fe23e59e149a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Early-Stage Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Early-Stage Research"
+            }
+          },
+          {
+            "id": "30a3b2f8a9b19db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Putting Ideas Into Words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Putting Ideas Into Words"
+            }
+          },
+          {
+            "id": "43f95854e26b2c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Engineering"
+            }
+          },
+          {
+            "id": "8f878c27a92235ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Software Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Design"
+            }
+          },
+          {
+            "id": "cd4d91677da890a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Software Requirements.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Requirements"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94fcd40ca2b4fdfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6d7e08fefe3188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f625075916d92821",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e63c6efaab1c54c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b153733ddbaac68a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2d8cf16d06c3ef6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fda12660d6c152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea3245e39cc5788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/Ethical Motivation for Windfall Clause.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ethical Motivation for Windfall Clause"
+            }
+          },
+          {
+            "id": "73eecb7056482205",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/DC's problems in Regulating AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DC's problems in Regulating AI"
+            }
+          },
+          {
+            "id": "7dbcec5c44a0098b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbf306f40df085e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/DC's problems in Regulating AI.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DC's problems in Regulating AI"
+            }
+          },
+          {
+            "id": "8cabfd07b95ce871",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f878c27a92235ed",
+  "lastOpenFiles": [
+    "Zettelkasten/Software Design.md",
+    "Zettelkasten/Software Engineering.md",
+    "Zettelkasten/Software Requirements.md",
+    "Zettelkasten/No Silver Bullet.md",
+    "Zettelkasten/History of Software Engineering.md",
+    "Zettelkasten/Putting Ideas Into Words.md",
+    "Zettelkasten/Early-Stage Research.md",
+    "Zettelkasten/PhD & Masters Tips.md",
+    "Zettelkasten/Untitled 2.md",
+    "Zettelkasten/Database Schema.md",
+    "Files/4.png",
+    "Files/4.png.crdownload",
+    "Zettelkasten/Data Model.md",
+    "Zettelkasten/Actors behind the scene.md",
+    "Zettelkasten/Actors on the scene.md",
+    "Zettelkasten/Database System.md",
+    "Zettelkasten/Database Management System (DBMS).md",
+    "Files/Screenshot 2025-03-24 172855.png",
+    "Zettelkasten/Criteria for Robust Preparedness Frameworks.md",
+    "Zettelkasten/AI Evaluation (for Preparedness Frameworks).md",
+    "Zettelkasten/Concept Learning.md",
+    "Zettelkasten/Autonomous Replication & Adaptation (ARA).md",
+    "Zettelkasten/Clock Drift.md",
+    "Zettelkasten/cpu burst.md",
+    "Zettelkasten/Clock Skew.md",
+    "Zettelkasten/No Global Clock.md",
+    "Zettelkasten/Transparency of Evals in PFs.md",
+    "Zettelkasten/Amendments to PFs.md",
+    "Zettelkasten/Accountability of PFs.md",
+    "Files/inner-outer-alignment-person-diagram-2.png",
+    "Files/inner-outer-alignment-person-diagram-2.png.crdownload",
+    "Files/1-s2.0-S0016328721001932-gr2.jpg",
+    "Files/1-s2.0-S0016328721001932-gr2.jpg.crdownload",
+    "Files/Pasted image 20241226185326.png",
+    "Files/Pasted image 20241226190442.png",
+    "Files/Pasted image 20241226190420.png",
+    "Files/Maamoun_Kyoto_Protocol_GHG_Emissions-1024x743.png",
+    "Files/Maamoun_Kyoto_Protocol_GHG_Emissions-1024x743.png.crdownload",
+    "Files/Screenshot 2024-11-26 084248.png",
+    "Files/NortonEquivalentCircuits.png",
+    "Files/nmos-char.gif.crdownload",
+    "Files/Routing-Working.png.crdownload",
+    "Files/screen-shot-2018-04-23-at-4.10.20-pm.png.crdownload",
+    "Files/A-line-graph-showing-the-default-Saw-Tooth-behaviour-of-the-TCP-Protocol-with.png.crdownload",
+    "Files/img002.gif.crdownload",
+    "Files/go-back-n_1.png.crdownload",
+    "Untitled.canvas",
+    "demos/Canvas-demo.canvas",
+    "Untitled 1.canvas"
+  ]
+}

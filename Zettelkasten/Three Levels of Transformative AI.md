@@ -1,0 +1,16 @@
+Created on: 06-02-2025 12:27
+Status: #idea
+Tags:
+# Three Levels of Transformative AI
+| Level of Transformativeness | Definition                                                                                                                                                                                                                                                                                                                                                                                                                | Historical Analogue                                                                                 |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Narrowly Transformative AI  | Any AI technology or application with the potential to lead to practically irreversible change focused primarily in a specific domain or sector of society, such as warfare or education.                                                                                                                                                                                                                                 | The impact of nuclear weapons on warfare.                                                           |
+| Transformative AI           | Any AI technology or application with potential to lead to practically irreversible change that is broad enough to impact most important aspects of life and society. One key indicator of this level of transformative change would be a pervasive increase in economic productivity (i.e., a ‘productivity bonus’; [Lipsey et al., 2005](https://www.sciencedirect.com/science/article/pii/S0016328721001932#bib0195)). | GPTs such as electricity and the internal combustion engine.                                        |
+| Radically Transformative AI | Any AI technology or application which meets the criteria for TAI, and with potential impacts that are extreme enough to result in radical changes to the metrics used to measure human progress and well-being, or to result in reversal of societal trends previously thought of as practically irreversible.                                                                                                           | Levels of societal transformation equivalent to those of the agricultural or industrial revolutions |
+
+![[1-s2.0-S0016328721001932-gr2.jpg]]
+
+
+-----------------
+# References
+[The transformative potential of artificial intelligence - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016328721001932#sec0015)
