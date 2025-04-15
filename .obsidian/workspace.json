@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2ce3822e9c073d17",
+        "id": "afc3374c2020d66c",
         "type": "tabs",
         "children": [
           {
-            "id": "dc04fb099610ddcd",
+            "id": "fe91827fa1005ee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Software Maintenance.md",
-                "mode": "source",
+                "file": "Zettelkasten/Shadcn UI.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Maintenance"
+              "title": "Shadcn UI"
             }
           },
           {
-            "id": "c945596bf3408dbf",
+            "id": "03f5e9f35f572669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Software Engineering Economics.md",
+                "file": "Zettelkasten/Software Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Engineering Economics"
-            }
-          },
-          {
-            "id": "2b461d09715449dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/History of Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "History of Software Engineering"
+              "title": "Software Design"
             }
           }
         ]
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Software Maintenance.md",
+                "file": "Zettelkasten/Shadcn UI.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Software Maintenance"
+              "title": "Backlinks for Shadcn UI"
             }
           },
           {
@@ -201,19 +187,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc04fb099610ddcd",
+  "active": "fea3245e39cc5788",
   "lastOpenFiles": [
+    "Zettelkasten/Tailwind CSS.md",
+    "Zettelkasten/Shadcn UI.md",
+    "Zettelkasten/Supabase.md",
+    "Zettelkasten/Criteria for Robust Preparedness Frameworks.md",
     "Zettelkasten/Software Engineering.md",
+    "Zettelkasten/Typescript.md",
+    "Zettelkasten/First Contentful Paint (FCP).md",
+    "Files/fp&fcp.png",
+    "Files/fp&fcp.png.crdownload",
+    "Zettelkasten/NextJS.md",
+    "Zettelkasten/Software Construction.md",
+    "Zettelkasten/Software Design.md",
+    "Zettelkasten/History of Software Engineering.md",
+    "Zettelkasten/Software Engineering Economics.md",
+    "Zettelkasten/Software Maintenance.md",
     "Zettelkasten/Software Configuration Management.md",
     "Zettelkasten/Software Engineering Models and Methods.md",
     "Zettelkasten/Software Engineering Processes.md",
     "Zettelkasten/Software Testing.md",
-    "Zettelkasten/Software Design.md",
     "Zettelkasten/Software Quality.md",
-    "Zettelkasten/Software Maintenance.md",
-    "Zettelkasten/Software Construction.md",
-    "Zettelkasten/Software Engineering Economics.md",
-    "Zettelkasten/History of Software Engineering.md",
     "Zettelkasten/Classification of Software Systems.md",
     "Zettelkasten/Software Engineering Professional Practice.md",
     "Untitled.canvas",
@@ -231,12 +226,6 @@
     "Files/semantic versioning.png",
     "Files/semantic versioning.png.crdownload",
     "Zettelkasten/Database Management System (DBMS).md",
-    "Zettelkasten/Software Requirements.md",
-    "Zettelkasten/No Silver Bullet.md",
-    "Zettelkasten/Putting Ideas Into Words.md",
-    "Zettelkasten/Early-Stage Research.md",
-    "Zettelkasten/PhD & Masters Tips.md",
-    "Zettelkasten/Untitled 2.md",
     "Files/4.png",
     "Files/4.png.crdownload",
     "Files/Screenshot 2025-03-24 172855.png",
@@ -245,10 +234,8 @@
     "Files/1-s2.0-S0016328721001932-gr2.jpg",
     "Files/1-s2.0-S0016328721001932-gr2.jpg.crdownload",
     "Files/Pasted image 20241226185326.png",
-    "Files/Pasted image 20241226190442.png",
     "Files/Maamoun_Kyoto_Protocol_GHG_Emissions-1024x743.png.crdownload",
     "Files/nmos-char.gif.crdownload",
-    "Files/Routing-Working.png.crdownload",
     "demos/Canvas-demo.canvas",
     "Untitled 1.canvas"
   ]
