@@ -13,7 +13,5 @@ Tags: #software
 - In the late 1990s, due to project delays and cost overruns the Waterfall model received major criticism. 
 - Users may have to wait for years to see a piece of software running, because of the need of a full requirements gathering phase and a complete design phase.
 - By the time the software starts running, the world may not need the system specified years before.
-
-
 -----------------
 # References

@@ -1,6 +1,6 @@
 Created on: 09-04-2025 01:22
 Status: #idea
-Tags:
+Tags: #software
 # No Silver Bullet
 - Written by Frederick Brooks.
 - In the field there are two types of problems, essential difficulties and accidental difficulties.

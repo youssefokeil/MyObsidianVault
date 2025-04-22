@@ -41,12 +41,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Requirements Engineering.md",
+                "file": "Zettelkasten/Software Engineering Processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requirements Engineering"
+              "title": "Software Engineering Processes"
+            }
+          },
+          {
+            "id": "36f0c318b1762680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Classification of Software Systems.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classification of Software Systems"
+            }
+          },
+          {
+            "id": "67670c380c52837e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Extreme Programming (XP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extreme Programming (XP)"
+            }
+          },
+          {
+            "id": "792eae85a11ab08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Scrum.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrum"
+            }
+          },
+          {
+            "id": "cbcb175d5a275edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Agile.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agile"
             }
           },
           {
@@ -56,7 +112,7 @@
               "type": "markdown",
               "state": {
                 "file": "Zettelkasten/PostgreSQL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +187,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Requirements Engineering.md",
+                "file": "Zettelkasten/Scrum.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +218,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Requirements Engineering"
+              "title": "Backlinks for Scrum"
             }
           },
           {
@@ -219,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,13 +287,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14ac7d2e6c2102bd",
+  "active": "792eae85a11ab08a",
   "lastOpenFiles": [
-    "Zettelkasten/Software Requirements.md",
+    "Files/Pasted image 20250422201653.png",
+    "Files/Screenshot 2025-04-22 195747.png",
+    "Files/Screenshot 2025-04-22 192912.png",
+    "Zettelkasten/PostgreSQL.md",
+    "Zettelkasten/Scrum.md",
+    "Zettelkasten/Extreme Programming (XP).md",
+    "Zettelkasten/Agile.md",
+    "Zettelkasten/History of Software Engineering.md",
+    "Files/mermaid-diagram-2025-04-22-173048.png",
+    "Files/mermaid-diagram-2025-04-22-173048.png.crdownload",
+    "Zettelkasten/CHAOS Report 1994.md",
+    "Zettelkasten/Classification of Software Systems.md",
+    "Zettelkasten/Software Engineering Processes.md",
+    "Zettelkasten/Agile Manifesto.md",
+    "Zettelkasten/No Silver Bullet.md",
+    "Files/Screenshot 2025-04-22 165017.png",
+    "Files/Pasted image 20250422164809.png",
+    "Files/mermaid-diagram-2025-04-22-161031.png",
+    "Files/mermaid-diagram-2025-04-22-161031.png.crdownload",
+    "Zettelkasten/Waterfall Processes.md",
     "Zettelkasten/Requirements Engineering.md",
+    "Zettelkasten/Software Requirements.md",
     "Zettelkasten/Non-Functional Requirements.md",
     "Zettelkasten/Functional Requirements.md",
-    "Zettelkasten/PostgreSQL.md",
     "Zettelkasten/Bukhary3017 (Reverts Hadith).md",
     "Zettelkasten/Clean Development Mechanism.md",
     "Zettelkasten/Business Judgement Rule (BJR).md",
@@ -248,19 +323,8 @@
     "Zettelkasten/Supabase.md",
     "Zettelkasten/Criteria for Robust Preparedness Frameworks.md",
     "Zettelkasten/Software Engineering.md",
-    "Zettelkasten/Typescript.md",
-    "Zettelkasten/First Contentful Paint (FCP).md",
     "Files/fp&fcp.png",
     "Files/fp&fcp.png.crdownload",
-    "Zettelkasten/NextJS.md",
-    "Zettelkasten/Software Construction.md",
-    "Zettelkasten/Software Design.md",
-    "Zettelkasten/History of Software Engineering.md",
-    "Zettelkasten/Software Engineering Economics.md",
-    "Zettelkasten/Software Maintenance.md",
-    "Zettelkasten/Software Configuration Management.md",
-    "Zettelkasten/Software Engineering Models and Methods.md",
-    "Zettelkasten/Software Engineering Processes.md",
     "Untitled.canvas",
     "Files/whatis-waterfall_model_mobile.png",
     "Files/whatis-waterfall_model_mobile.png.crdownload",
@@ -268,18 +332,10 @@
     "Files/Unconfirmed 779050.crdownload",
     "Files/SoftwareEngTimeline.png",
     "Files/mermaid-diagram-2025-04-10-211542.png.crdownload",
-    "Files/semantic versioning.png",
     "Files/semantic versioning.png.crdownload",
-    "Files/4.png",
     "Files/4.png.crdownload",
-    "Files/Screenshot 2025-03-24 172855.png",
-    "Files/inner-outer-alignment-person-diagram-2.png",
     "Files/inner-outer-alignment-person-diagram-2.png.crdownload",
-    "Files/1-s2.0-S0016328721001932-gr2.jpg",
     "Files/1-s2.0-S0016328721001932-gr2.jpg.crdownload",
-    "Files/Pasted image 20241226185326.png",
-    "Files/Maamoun_Kyoto_Protocol_GHG_Emissions-1024x743.png.crdownload",
-    "Files/nmos-char.gif.crdownload",
     "demos/Canvas-demo.canvas",
     "Untitled 1.canvas"
   ]
