@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Clean Development Mechanism.md",
+                "file": "Zettelkasten/Typescript.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clean Development Mechanism"
+              "title": "Typescript"
             }
           },
           {
@@ -84,11 +84,25 @@
               "type": "markdown",
               "state": {
                 "file": "Zettelkasten/Scrum.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Scrum"
+            }
+          },
+          {
+            "id": "e278e92c68f08a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/NextJS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NextJS"
             }
           },
           {
@@ -132,9 +146,93 @@
               "icon": "lucide-file",
               "title": "Software Design"
             }
+          },
+          {
+            "id": "3e4d8f514beee3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Fragmentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fragmentation"
+            }
+          },
+          {
+            "id": "5f62886132200ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/PhD & Masters Tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PhD & Masters Tips"
+            }
+          },
+          {
+            "id": "b08eee9414e20f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/ML Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML Roadmap"
+            }
+          },
+          {
+            "id": "e5b09ff087fdd355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/RLAIF; Reinforcement Learning with AI Feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RLAIF; Reinforcement Learning with AI Feedback"
+            }
+          },
+          {
+            "id": "046a139c5356965b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Read research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Read research"
+            }
+          },
+          {
+            "id": "6dd5e9029dc9eb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/DNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -208,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Scrum.md",
+                "file": "Zettelkasten/ML Roadmap.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,7 +316,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scrum"
+              "title": "Backlinks for ML Roadmap"
             }
           },
           {
@@ -266,16 +364,15 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,8 +384,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "792eae85a11ab08a",
+  "active": "b08eee9414e20f95",
   "lastOpenFiles": [
+    "Zettelkasten/RLAIF; Reinforcement Learning with AI Feedback.md",
+    "Zettelkasten/RLAIF.md",
+    "Zettelkasten/ML Roadmap.md",
+    "Zettelkasten/Read research.md",
+    "Zettelkasten/PhD & Masters Tips.md",
+    "Zettelkasten/NextJS.md",
+    "Zettelkasten/First Contentful Paint (FCP).md",
+    "Zettelkasten/Classification of Software Systems.md",
+    "Zettelkasten/Message Passing Interface MPI.md",
+    "Zettelkasten/Navigation in Name Services.md",
+    "Files/Pasted image.png",
+    "Zettelkasten/Arthur Miller on Suffering.md",
+    "Files/Screenshot From 2025-05-07 06-33-19.png",
+    "Zettelkasten/DNS.md",
+    "Files/Screenshot From 2025-05-07 03-02-16.png",
+    "Files/Screenshot From 2025-05-07 03-01-05.png",
+    "Zettelkasten/Fragmentation.md",
+    "Zettelkasten/Distributed DBMS.md",
+    "Zettelkasten/Typescript.md",
+    "Zettelkasten/Clean Development Mechanism.md",
+    "Zettelkasten/Functional Requirements.md",
     "Files/Pasted image 20250422201653.png",
     "Files/Screenshot 2025-04-22 195747.png",
     "Files/Screenshot 2025-04-22 192912.png",
@@ -300,37 +418,16 @@
     "Files/mermaid-diagram-2025-04-22-173048.png",
     "Files/mermaid-diagram-2025-04-22-173048.png.crdownload",
     "Zettelkasten/CHAOS Report 1994.md",
-    "Zettelkasten/Classification of Software Systems.md",
     "Zettelkasten/Software Engineering Processes.md",
     "Zettelkasten/Agile Manifesto.md",
     "Zettelkasten/No Silver Bullet.md",
     "Files/Screenshot 2025-04-22 165017.png",
     "Files/Pasted image 20250422164809.png",
-    "Files/mermaid-diagram-2025-04-22-161031.png",
     "Files/mermaid-diagram-2025-04-22-161031.png.crdownload",
-    "Zettelkasten/Waterfall Processes.md",
-    "Zettelkasten/Requirements Engineering.md",
-    "Zettelkasten/Software Requirements.md",
-    "Zettelkasten/Non-Functional Requirements.md",
-    "Zettelkasten/Functional Requirements.md",
-    "Zettelkasten/Bukhary3017 (Reverts Hadith).md",
-    "Zettelkasten/Clean Development Mechanism.md",
-    "Zettelkasten/Business Judgement Rule (BJR).md",
-    "Zettelkasten/pneumatic process.md",
-    "Zettelkasten/Priority Scheduling.md",
-    "Zettelkasten/Shadcn UI.md",
-    "Zettelkasten/Tailwind CSS.md",
-    "Zettelkasten/Supabase.md",
-    "Zettelkasten/Criteria for Robust Preparedness Frameworks.md",
-    "Zettelkasten/Software Engineering.md",
-    "Files/fp&fcp.png",
     "Files/fp&fcp.png.crdownload",
     "Untitled.canvas",
-    "Files/whatis-waterfall_model_mobile.png",
     "Files/whatis-waterfall_model_mobile.png.crdownload",
-    "Files/waterfall-en.svg",
     "Files/Unconfirmed 779050.crdownload",
-    "Files/SoftwareEngTimeline.png",
     "Files/mermaid-diagram-2025-04-10-211542.png.crdownload",
     "Files/semantic versioning.png.crdownload",
     "Files/4.png.crdownload",

@@ -3,7 +3,6 @@ Status: #idea
 Tags: #software
 # Classification of Software Systems
 
-
 ### Casual Systems (Type C)
 - Not under high pressure for high-quality performance
 - Can tolerate minor bugs
