@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"8c650511a28724a8","type":"file","file":"demos/Three laws of motion.md","x":-180,"y":-60,"width":400,"height":178},
-		{"id":"8c9ae54f7ea60f85","type":"file","file":"demos/Law of Inertia.md","x":-382,"y":220,"width":240,"height":200}
-	],
-	"edges":[
-		{"id":"b6a29f7dbdfba5ae","fromNode":"8c650511a28724a8","fromSide":"bottom","toNode":"8c9ae54f7ea60f85","toSide":"top"}
-	]
-}
