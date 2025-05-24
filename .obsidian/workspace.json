@@ -22,217 +22,52 @@
             }
           },
           {
-            "id": "f33a07e919e33cf6",
+            "id": "5110035178e68823",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Functional Requirements.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Functional Requirements"
-            }
-          },
-          {
-            "id": "14ac7d2e6c2102bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Software Engineering Processes.md",
+                "file": "Zettelkasten/Untitled 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Engineering Processes"
+              "title": "Untitled 3"
             }
           },
           {
-            "id": "36f0c318b1762680",
+            "id": "5511032ec2495666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Classification of Software Systems.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classification of Software Systems"
-            }
-          },
-          {
-            "id": "67670c380c52837e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Extreme Programming (XP).md",
+                "file": "Zettelkasten/Dust of The Way (Q).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extreme Programming (XP)"
+              "title": "Dust of The Way (Q)"
             }
           },
           {
-            "id": "792eae85a11ab08a",
+            "id": "3b90e3ca1d91b9b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Zettelkasten/Scrum.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Scrum"
-            }
-          },
-          {
-            "id": "e278e92c68f08a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/NextJS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NextJS"
-            }
-          },
-          {
-            "id": "cbcb175d5a275edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Agile.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agile"
-            }
-          },
-          {
-            "id": "59a57544cb1a8b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/PostgreSQL.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL"
-            }
-          },
-          {
-            "id": "03f5e9f35f572669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Software Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software Design"
-            }
-          },
-          {
-            "id": "3e4d8f514beee3e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Fragmentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fragmentation"
-            }
-          },
-          {
-            "id": "5f62886132200ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/PhD & Masters Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PhD & Masters Tips"
-            }
-          },
-          {
-            "id": "b08eee9414e20f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/ML Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ML Roadmap"
-            }
-          },
-          {
-            "id": "e5b09ff087fdd355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/RLAIF; Reinforcement Learning with AI Feedback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RLAIF; Reinforcement Learning with AI Feedback"
-            }
-          },
-          {
-            "id": "046a139c5356965b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Read research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Read research"
-            }
-          },
-          {
-            "id": "6dd5e9029dc9eb4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNS"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2d8cf16d06c3ef6e",
@@ -306,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/ML Roadmap.md",
+                "file": "Zettelkasten/The Uses of Not.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -316,7 +150,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ML Roadmap"
+              "title": "Backlinks for The Uses of Not"
             }
           },
           {
@@ -325,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/DC's problems in Regulating AI.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DC's problems in Regulating AI"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -359,16 +193,17 @@
             }
           },
           {
-            "id": "8cabfd07b95ce871",
+            "id": "cb1fd3b345e70ff0",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -384,13 +219,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b08eee9414e20f95",
+  "active": "3b90e3ca1d91b9b4",
   "lastOpenFiles": [
-    "Zettelkasten/RLAIF; Reinforcement Learning with AI Feedback.md",
-    "Zettelkasten/RLAIF.md",
-    "Zettelkasten/ML Roadmap.md",
-    "Zettelkasten/Read research.md",
+    "Zettelkasten/The Uses of Not.md",
+    "Files/120283771_CLAYPOT1_1495890635.jpg",
+    "Zettelkasten/Dust of The Way (Q).md",
+    "Zettelkasten/Untitled 3.md",
+    "Zettelkasten/Typescript.md",
+    "Zettelkasten/PostgreSQL.md",
     "Zettelkasten/PhD & Masters Tips.md",
+    "Zettelkasten/Fragmentation.md",
+    "Zettelkasten/Software Design.md",
+    "Zettelkasten/DNS.md",
+    "Zettelkasten/Read research.md",
+    "Zettelkasten/RLAIF; Reinforcement Learning with AI Feedback.md",
+    "Zettelkasten/ML Roadmap.md",
+    "Zettelkasten/RLAIF.md",
     "Zettelkasten/NextJS.md",
     "Zettelkasten/First Contentful Paint (FCP).md",
     "Zettelkasten/Classification of Software Systems.md",
@@ -399,30 +243,20 @@
     "Files/Pasted image.png",
     "Zettelkasten/Arthur Miller on Suffering.md",
     "Files/Screenshot From 2025-05-07 06-33-19.png",
-    "Zettelkasten/DNS.md",
     "Files/Screenshot From 2025-05-07 03-02-16.png",
     "Files/Screenshot From 2025-05-07 03-01-05.png",
-    "Zettelkasten/Fragmentation.md",
     "Zettelkasten/Distributed DBMS.md",
-    "Zettelkasten/Typescript.md",
     "Zettelkasten/Clean Development Mechanism.md",
     "Zettelkasten/Functional Requirements.md",
     "Files/Pasted image 20250422201653.png",
     "Files/Screenshot 2025-04-22 195747.png",
     "Files/Screenshot 2025-04-22 192912.png",
-    "Zettelkasten/PostgreSQL.md",
     "Zettelkasten/Scrum.md",
     "Zettelkasten/Extreme Programming (XP).md",
     "Zettelkasten/Agile.md",
-    "Zettelkasten/History of Software Engineering.md",
     "Files/mermaid-diagram-2025-04-22-173048.png",
     "Files/mermaid-diagram-2025-04-22-173048.png.crdownload",
-    "Zettelkasten/CHAOS Report 1994.md",
-    "Zettelkasten/Software Engineering Processes.md",
-    "Zettelkasten/Agile Manifesto.md",
-    "Zettelkasten/No Silver Bullet.md",
     "Files/Screenshot 2025-04-22 165017.png",
-    "Files/Pasted image 20250422164809.png",
     "Files/mermaid-diagram-2025-04-22-161031.png.crdownload",
     "Files/fp&fcp.png.crdownload",
     "Untitled.canvas",

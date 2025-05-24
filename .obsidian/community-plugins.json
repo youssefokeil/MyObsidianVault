@@ -1,8 +1,8 @@
 [
-  "calendar",
   "obsidian-admonition",
   "periodic-notes",
   "obsidian-latex",
   "obsidian-image-toolkit",
-  "quick-latex"
+  "quick-latex",
+  "calendar"
 ]
