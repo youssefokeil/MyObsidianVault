@@ -8,7 +8,8 @@ Tags: #software #BaRead  #design_thinking
 > The user interface is well-designed when the program behaves exactly how the user thought it would.
 
 ## 2. Learning User Expectations:
-It's important to learn user expectations as you may have to change your program model to satisfy. It's always easier to change the program model than changing the user model. For more check [[Learning User Expectations]]. 
+- It's important to learn user expectations as you may have to change your program model to satisfy. It's always easier to change the program model than changing the user model. For more check [[Learning User Expectations]]. 
+- Try to make your program as simple as possible, because if it's complex enough, it's not the right design.
 
 -----------------
 # References
