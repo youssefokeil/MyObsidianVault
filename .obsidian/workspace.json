@@ -22,21 +22,7 @@
             }
           },
           {
-            "id": "5110035178e68823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "5511032ec2495666",
+            "id": "6c293f10ac720fb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,24 +36,119 @@
             }
           },
           {
+            "id": "bffa434fb2e5c5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/UI, UX & Design Thinking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UI, UX & Design Thinking"
+            }
+          },
+          {
+            "id": "34d4a1220ae76244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/UI Design Principles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UI Design Principles"
+            }
+          },
+          {
+            "id": "75b9a84f8f0f83df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Learning User Expectations.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning User Expectations"
+            }
+          },
+          {
+            "id": "3349f7e739171058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Usability Tests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Usability Tests"
+            }
+          },
+          {
+            "id": "ac5cde935c56def8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Usability Tests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Usability Tests"
+            }
+          },
+          {
+            "id": "97107bd93ceff04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Learned Helplessness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learned Helplessness"
+            }
+          },
+          {
             "id": "3b90e3ca1d91b9b4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Zettelkasten/Practically Irreversible Change.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Practically Irreversible Change"
+            }
+          },
+          {
+            "id": "6a15de298b1d3862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/1cycle Training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1cycle Training"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +201,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Zettelkasten/Usability Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Usability Tests"
             }
           },
           {
@@ -207,7 +289,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,13 +302,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b90e3ca1d91b9b4",
+  "active": "3349f7e739171058",
   "lastOpenFiles": [
-    "Zettelkasten/The Uses of Not.md",
-    "Files/120283771_CLAYPOT1_1495890635.jpg",
-    "Zettelkasten/Dust of The Way (Q).md",
-    "Zettelkasten/Untitled 3.md",
+    "Zettelkasten/Learning User Expectations.md",
+    "Zettelkasten/UI Design Principles.md",
+    "Zettelkasten/UI, UX & Design Thinking.md",
+    "Zettelkasten/Practically Irreversible Change.md",
+    "Zettelkasten/1cycle Training.md",
+    "Zettelkasten/Usability Tests.md",
+    "Zettelkasten/Learned Helplessness.md",
     "Zettelkasten/Typescript.md",
+    "Zettelkasten/Dust of The Way (Q).md",
+    "Zettelkasten/Functional Requirements.md",
+    "Zettelkasten/The Uses of Not.md",
+    "Untitled.canvas",
+    "Files/120283771_CLAYPOT1_1495890635.jpg",
+    "Zettelkasten/Untitled 3.md",
     "Zettelkasten/PostgreSQL.md",
     "Zettelkasten/PhD & Masters Tips.md",
     "Zettelkasten/Fragmentation.md",
@@ -241,25 +333,17 @@
     "Zettelkasten/Message Passing Interface MPI.md",
     "Zettelkasten/Navigation in Name Services.md",
     "Files/Pasted image.png",
-    "Zettelkasten/Arthur Miller on Suffering.md",
     "Files/Screenshot From 2025-05-07 06-33-19.png",
     "Files/Screenshot From 2025-05-07 03-02-16.png",
     "Files/Screenshot From 2025-05-07 03-01-05.png",
-    "Zettelkasten/Distributed DBMS.md",
-    "Zettelkasten/Clean Development Mechanism.md",
-    "Zettelkasten/Functional Requirements.md",
     "Files/Pasted image 20250422201653.png",
     "Files/Screenshot 2025-04-22 195747.png",
     "Files/Screenshot 2025-04-22 192912.png",
-    "Zettelkasten/Scrum.md",
-    "Zettelkasten/Extreme Programming (XP).md",
-    "Zettelkasten/Agile.md",
     "Files/mermaid-diagram-2025-04-22-173048.png",
     "Files/mermaid-diagram-2025-04-22-173048.png.crdownload",
     "Files/Screenshot 2025-04-22 165017.png",
     "Files/mermaid-diagram-2025-04-22-161031.png.crdownload",
     "Files/fp&fcp.png.crdownload",
-    "Untitled.canvas",
     "Files/whatis-waterfall_model_mobile.png.crdownload",
     "Files/Unconfirmed 779050.crdownload",
     "Files/mermaid-diagram-2025-04-10-211542.png.crdownload",

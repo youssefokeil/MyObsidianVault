@@ -1,6 +1,6 @@
 Created on: 23-05-2025 17:35
-Status: #idea
-Tags: #taoism
+Status: #idea #quote 
+Tags: #taoism 
 # Dust of The Way (Q)
 > Blunting Edge,
 > loosing bond,
