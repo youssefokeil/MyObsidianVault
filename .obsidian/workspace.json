@@ -4,165 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "afc3374c2020d66c",
+        "id": "af8f50da7c4c47b4",
         "type": "tabs",
         "children": [
           {
-            "id": "fe91827fa1005ee5",
+            "id": "f6021eed9a01763e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Typescript.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Typescript"
-            }
-          },
-          {
-            "id": "84635a5bc6aa6a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Design Thinking.md",
+                "file": "Zettelkasten/Producer-Consumer Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Thinking"
+              "title": "Producer-Consumer Problem"
             }
           },
           {
-            "id": "1e7341ac47c865c3",
+            "id": "44e7d58a67bba2b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Heuristics & Biases.md",
+                "file": "Zettelkasten/Compare & Swap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heuristics & Biases"
+              "title": "Compare & Swap"
             }
           },
           {
-            "id": "8c89930111ea7888",
+            "id": "2e4ddc90b26e8311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Heuristics.md",
+                "file": "Zettelkasten/Semaphores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heuristics"
+              "title": "Semaphores"
             }
           },
           {
-            "id": "34d4a1220ae76244",
+            "id": "a76416ec93211c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/UI Design Principles.md",
+                "file": "Zettelkasten/Mutual Exclusion with CAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UI Design Principles"
+              "title": "Mutual Exclusion with CAS"
             }
           },
           {
-            "id": "75b9a84f8f0f83df",
+            "id": "ed1551cdf230b24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Learning User Expectations.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learning User Expectations"
-            }
-          },
-          {
-            "id": "3349f7e739171058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Usability Tests.md",
+                "file": "Templates/Core Zettel Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Usability Tests"
+              "title": "Core Zettel Idea"
             }
           },
           {
-            "id": "ac5cde935c56def8",
+            "id": "9158b72329b862f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Usability Tests.md",
+                "file": "Zettelkasten/Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Usability Tests"
-            }
-          },
-          {
-            "id": "97107bd93ceff04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Learned Helplessness.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learned Helplessness"
-            }
-          },
-          {
-            "id": "3b90e3ca1d91b9b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Practically Irreversible Change.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practically Irreversible Change"
-            }
-          },
-          {
-            "id": "6a15de298b1d3862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/1cycle Training.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1cycle Training"
+              "title": "Process"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -317,10 +246,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c89930111ea7888",
+  "active": "2e4ddc90b26e8311",
   "lastOpenFiles": [
-    "Zettelkasten/Heuristics & Biases.md",
+    "Zettelkasten/Mutual Exclusion with CAS.md",
+    "Zettelkasten/Semaphores.md",
+    "Zettelkasten/Mutex Locks.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Compare & Swap.md",
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Producer-Consumer Problem.md",
+    "Templates/Core Zettel Idea.md",
+    "Zettelkasten/Critical-Section.md",
+    "Zettelkasten/Process.md",
+    "Zettelkasten/Synchronization Tools.md",
     "Zettelkasten/Heuristics.md",
+    "Zettelkasten/Heuristics & Biases.md",
     "Zettelkasten/Design Thinking.md",
     "Zettelkasten/Typescript.md",
     "Zettelkasten/Dust of The Way (Q).md",
@@ -336,17 +276,6 @@
     "Untitled.canvas",
     "Files/120283771_CLAYPOT1_1495890635.jpg",
     "Zettelkasten/Untitled 3.md",
-    "Zettelkasten/PostgreSQL.md",
-    "Zettelkasten/PhD & Masters Tips.md",
-    "Zettelkasten/Fragmentation.md",
-    "Zettelkasten/Software Design.md",
-    "Zettelkasten/DNS.md",
-    "Zettelkasten/Read research.md",
-    "Zettelkasten/RLAIF; Reinforcement Learning with AI Feedback.md",
-    "Zettelkasten/ML Roadmap.md",
-    "Zettelkasten/RLAIF.md",
-    "Zettelkasten/NextJS.md",
-    "Zettelkasten/First Contentful Paint (FCP).md",
     "Files/Pasted image.png",
     "Files/Screenshot From 2025-05-07 06-33-19.png",
     "Files/Screenshot From 2025-05-07 03-02-16.png",

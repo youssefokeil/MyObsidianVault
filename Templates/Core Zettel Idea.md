@@ -1,4 +1,4 @@
-Created on: {{date}} {{time}}
+Created on: {{date}} {{time}} 
 Status: #idea
 Tags:
 # {{title}}
