@@ -59,6 +59,10 @@ signal(semaphore *S) {
 ```
 
 #### How to ensure atomic operations?
-- 
+- On uni-core systems 
+	- disable interrupts during the `wait()` & `signal()` execution. All other processes can't be interleaved, while the current process is executes until interrupts are re-enabled.
+- On multi-core systems 
+	- disabling interrupts on every core can be very difficult. It usually uses spin locks or [[Compare & Swap]].
+	- Despite not eliminating busy-waiting totally, we have moved the busy-wait from the entry section to the critical-section (which should be at most 10 operations).
 -----------------
 # References
