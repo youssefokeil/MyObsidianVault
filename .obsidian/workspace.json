@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Compare & Swap.md",
+                "file": "Zettelkasten/State Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compare & Swap"
+              "title": "State Diagram"
             }
           },
           {
-            "id": "a76416ec93211c1a",
+            "id": "997598ee356ab049",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Scrum.md",
+                "file": "Zettelkasten/Design Thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scrum"
+              "title": "Design Thinking"
             }
           },
           {
@@ -76,9 +76,51 @@
               "icon": "lucide-file",
               "title": "Process"
             }
+          },
+          {
+            "id": "5fd6b1605a3de043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Be Fully Honest, Stature Be Damned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Be Fully Honest, Stature Be Damned"
+            }
+          },
+          {
+            "id": "fe17205af3fbb19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Follow Your Curiosity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Follow Your Curiosity"
+            }
+          },
+          {
+            "id": "43d457240ef95c77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Seek Understanding, Not Memorization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seek Understanding, Not Memorization"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,13 +275,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a76416ec93211c1a",
+  "active": "43d457240ef95c77",
   "lastOpenFiles": [
+    "Zettelkasten/Follow Your Curiosity.md",
+    "Zettelkasten/Seek Understanding, Not Memorization.md",
+    "Zettelkasten/Be Fully Honest, Stature Be Damned.md",
+    "Zettelkasten/State Diagram.md",
+    "Zettelkasten/Use a Different Set of Tools.md",
+    "Zettelkasten/Extreme Programming (XP).md",
+    "Zettelkasten/CRUDs.md",
+    "Zettelkasten/Compare & Swap.md",
+    "Zettelkasten/Design Thinking.md",
+    "Zettelkasten/Learned Helplessness.md",
+    "Zettelkasten/Fragmentation.md",
+    "Zettelkasten/Scrum.md",
     "Zettelkasten/Semaphores.md",
     "Zettelkasten/Mutual Exclusion with CAS.md",
-    "Zettelkasten/Compare & Swap.md",
     "Zettelkasten/Mutex Locks.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/Producer-Consumer Problem.md",
     "Templates/Core Zettel Idea.md",
@@ -247,21 +300,11 @@
     "Zettelkasten/Synchronization Tools.md",
     "Zettelkasten/Heuristics.md",
     "Zettelkasten/Heuristics & Biases.md",
-    "Zettelkasten/Design Thinking.md",
     "Zettelkasten/Typescript.md",
     "Zettelkasten/Dust of The Way (Q).md",
     "Zettelkasten/UI, UX.md",
-    "Zettelkasten/UI Design Principles.md",
-    "Zettelkasten/Usability Tests.md",
-    "Zettelkasten/Learning User Expectations.md",
-    "Zettelkasten/Practically Irreversible Change.md",
-    "Zettelkasten/1cycle Training.md",
-    "Zettelkasten/Learned Helplessness.md",
-    "Zettelkasten/Functional Requirements.md",
-    "Zettelkasten/The Uses of Not.md",
     "Untitled.canvas",
     "Files/120283771_CLAYPOT1_1495890635.jpg",
-    "Zettelkasten/Untitled 3.md",
     "Files/Pasted image.png",
     "Files/Screenshot From 2025-05-07 06-33-19.png",
     "Files/Screenshot From 2025-05-07 03-02-16.png",
