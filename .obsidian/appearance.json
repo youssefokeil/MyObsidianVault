@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "obsidian-default-theme"
+  ],
+  "cssTheme": "AnuPpuccin"
 }
