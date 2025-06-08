@@ -1,6 +1,6 @@
 Created on: 15-12-2024 18:01
 Status: #idea
-Tags: #policy_paper #AI #ai_gov #case_study 
+Tags: #policy_paper #AI #AI/Governance #case_study 
 # Firm Motivation for Windfall Clause
 By agreeing to be bound by a Windfall Clause, a signatory would send a convincing, costly signal of the firm’s intention to ethically develop AI. Most companies agree on the need to regulate AI, but observers see it as "ethics theater". Here we will see how companies can be motivated to sign something like the [[Windfall Clause]].
 1. Generating goodwill for the signatory as a justification for [[Corporate Social Responsibility (CSR)]] 

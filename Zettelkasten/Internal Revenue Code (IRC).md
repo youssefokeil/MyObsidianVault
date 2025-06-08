@@ -1,6 +1,6 @@
 Created on: 16-12-2024 16:04
 Status: #idea
-Tags: #policy_paper #ai_gov 
+Tags: #policy_paper #AI/Governance 
 # Internal Revenue Code (IRC)
 > There shall be allowed a deduction for any charitable contribution made within the taxable year
 

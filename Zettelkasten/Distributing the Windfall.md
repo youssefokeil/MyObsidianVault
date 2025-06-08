@@ -1,6 +1,6 @@
 Created on: 16-12-2024 14:13
 Status: #idea
-Tags: #policy_paper #case_study #ai_gov 
+Tags: #policy_paper #case_study #AI/Governance 
 # Distributing the Windfall
 ### Considerations:
 1. Effectiveness 

@@ -1,6 +1,6 @@
 Created on: 11-04-2024 16:29
 Status: #idea
-Tags: #CNN #computer_vision #AI #fastai 
+Tags: #AI/CNN #computer_vision #AI #AI/fastai 
 # Receptive Fields
 Is the area involved in the calculation of a layer in Convolutions. More generally, it's the area of input data that a neuron is sensitive to. 
 

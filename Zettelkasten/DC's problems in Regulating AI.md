@@ -1,6 +1,6 @@
 Created on: 24-10-2024 00:28
 Status: #idea
-Tags: #AI #ai_safety #ai_gov #USA
+Tags: #AI #AI/Safety #AI/Governance #USA
 # DC's problems in Regulating AI
 ### The Congress Inefficiency:
  1. __Congress hasn't been able to pass a comprehensive set of laws for regulating AI, but this is a growing trend:__

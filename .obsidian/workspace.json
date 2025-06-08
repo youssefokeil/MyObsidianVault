@@ -4,123 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "af8f50da7c4c47b4",
+        "id": "bc2a54d8f696b306",
         "type": "tabs",
         "children": [
           {
-            "id": "f6021eed9a01763e",
+            "id": "11b058de0ee76025",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Producer-Consumer Problem.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Producer-Consumer Problem"
-            }
-          },
-          {
-            "id": "44e7d58a67bba2b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/State Diagram.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "State Diagram"
-            }
-          },
-          {
-            "id": "997598ee356ab049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Design Thinking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design Thinking"
-            }
-          },
-          {
-            "id": "ed1551cdf230b24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Core Zettel Idea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Core Zettel Idea"
-            }
-          },
-          {
-            "id": "9158b72329b862f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Process.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Process"
-            }
-          },
-          {
-            "id": "5fd6b1605a3de043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Be Fully Honest, Stature Be Damned.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Be Fully Honest, Stature Be Damned"
-            }
-          },
-          {
-            "id": "fe17205af3fbb19b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Follow Your Curiosity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Follow Your Curiosity"
-            }
-          },
-          {
-            "id": "1a178da8ea020b0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Not In A Hurry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Not In A Hurry"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,11 +49,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "tag:#quote",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -178,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "2d8cf16d06c3ef6e",
@@ -195,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/The Uses of Not.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,7 +100,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Uses of Not"
+              "title": "Backlinks"
             }
           },
           {
@@ -214,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Heuristics"
+              "title": "Outgoing links"
             }
           },
           {
@@ -229,7 +123,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -256,14 +152,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "1eccc132f651edb1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,37 +177,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a178da8ea020b0c",
+  "active": "1eccc132f651edb1",
   "lastOpenFiles": [
-    "Zettelkasten/Follow Your Curiosity.md",
-    "Zettelkasten/Not In A Hurry.md",
-    "Zettelkasten/Seek Understanding, Not Memorization.md",
+    "Zettelkasten/Producer-Consumer Problem.md",
+    "Zettelkasten/Entity-Relationship Model.md",
+    "Zettelkasten/Policy Paper.md",
+    "Zettelkasten/2025-06-08.md",
+    "Zettelkasten/Policy Brief.md",
     "Zettelkasten/Be Fully Honest, Stature Be Damned.md",
+    "Zettelkasten/Case Study.md",
+    "Zettelkasten/Relationships (Database).md",
+    "Zettelkasten/Attribute (Database).md",
+    "Zettelkasten/Database Management System (DBMS).md",
+    "Zettelkasten/Database.md",
+    "Zettelkasten/Database Schema.md",
+    "Zettelkasten/Mutual Exclusion with CAS.md",
+    "Zettelkasten/Compare & Swap.md",
+    "Zettelkasten/Race Condition.md",
+    "Zettelkasten/Critical-Section.md",
+    "Zettelkasten/Semaphores.md",
+    "Zettelkasten/Locality of Reference.md",
+    "Zettelkasten/Support Vector Machines (SVM).md",
+    "Zettelkasten/Not In A Hurry.md",
+    "Zettelkasten/Follow Your Curiosity.md",
+    "Zettelkasten/Seek Understanding, Not Memorization.md",
     "Zettelkasten/State Diagram.md",
     "Zettelkasten/Use a Different Set of Tools.md",
     "Zettelkasten/Extreme Programming (XP).md",
     "Zettelkasten/CRUDs.md",
-    "Zettelkasten/Compare & Swap.md",
-    "Zettelkasten/Design Thinking.md",
-    "Zettelkasten/Learned Helplessness.md",
-    "Zettelkasten/Fragmentation.md",
-    "Zettelkasten/Scrum.md",
-    "Zettelkasten/Semaphores.md",
-    "Zettelkasten/Mutual Exclusion with CAS.md",
-    "Zettelkasten/Mutex Locks.md",
-    "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/Producer-Consumer Problem.md",
-    "Templates/Core Zettel Idea.md",
-    "Zettelkasten/Critical-Section.md",
-    "Zettelkasten/Process.md",
-    "Zettelkasten/Synchronization Tools.md",
-    "Zettelkasten/Heuristics.md",
-    "Zettelkasten/Heuristics & Biases.md",
-    "Zettelkasten/Typescript.md",
-    "Zettelkasten/Dust of The Way (Q).md",
     "Untitled.canvas",
     "Files/120283771_CLAYPOT1_1495890635.jpg",
     "Files/Pasted image.png",

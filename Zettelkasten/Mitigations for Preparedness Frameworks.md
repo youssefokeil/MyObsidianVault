@@ -1,6 +1,6 @@
 Created on: 04-03-2025 16:14
 Status: #idea
-Tags: #ai_gov #AI_eval #ai_safety 
+Tags: #AI/Governance #AI/evals #AI/Safety 
 ### Risk Mitigations
 Risk mitigations may look like this:
 - restricting development or deployment of models at different risk thresholds

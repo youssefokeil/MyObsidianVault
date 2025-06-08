@@ -1,6 +1,6 @@
 Created on: 19-12-2024 13:30
 Status: #idea
-Tags: #policy_paper #ai_gov #climate_change 
+Tags: #policy_paper #AI/Governance #climate_change 
 # Ex-Ante Agreement
 > Ex-ante is a Latin term that means before an event. Ex-ante agreements are agreements that are based on forecasts and predictions rather than concrete results.
 

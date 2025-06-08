@@ -1,6 +1,6 @@
 Created on: 17-04-2024 05:12
 Status: #idea
-Tags: #CNN #fastai #computer_vision 
+Tags: #AI/CNN #AI/fastai #computer_vision 
 # 1x1 Convolution
 Most successful CNN architectures use 1x1 Convolution. Ex: GoogleNet, ResNet, SqueezeNet.
 1x1 Conv is used to reduce number of channels while introducing non linearity (this is called Cross Channel Down Sampling).

@@ -1,6 +1,6 @@
 Created on: 04-03-2025 16:07
 Status: #idea
-Tags: #ai_gov #AI_eval #ai_safety 
+Tags: #AI/Governance #AI/evals #AI/Safety 
 # AI Evaluation (for Preparedness Frameworks)
 - Anthropic's RSP includes evaluation procedures for model autonomy and misuse risks
 - Model Autonomy are impressively detailed, well-defined tasks on which it will evaluate its models.

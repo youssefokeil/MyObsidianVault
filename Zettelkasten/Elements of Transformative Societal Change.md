@@ -1,6 +1,6 @@
 Created on: 06-02-2025 11:12
 Status: #idea
-Tags: #AI #ai_gov #ai_safety 
+Tags: #AI #AI/Governance #AI/Safety 
 # Elements of Transformative Societal Change
 To study transformative change by a specific technology we must define different ways it can be transformative:
 1. Becoming a general-purpose technology (GPT), being applied in different sectors with ripple effects on other sectors.

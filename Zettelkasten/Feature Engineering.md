@@ -1,6 +1,6 @@
 Created on: 26-03-2024 16:32
 Status: #idea
-Tags: #fastai #AI #CNN #feature_engineering
+Tags: #AI/fastai #AI #AI/CNN #feature_engineering
 # Feature
 >  Feature is a transformation of data that is designed to make it easier to model.
 ### _Tabular Data_

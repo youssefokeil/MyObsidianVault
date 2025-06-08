@@ -1,7 +1,7 @@
 
 Created on: 04-03-2025 15:16
 Status: #idea
-Tags: #ai_gov #AI_eval #ai_safety 
+Tags: #AI/Governance #AI/evals #AI/Safety 
 # Criteria for Robust Preparedness Frameworks
 ## Breadth
 > What risks are covered?

@@ -1,8 +1,10 @@
 [
   "obsidian-admonition",
-  "periodic-notes",
   "obsidian-latex",
   "obsidian-image-toolkit",
   "quick-latex",
-  "calendar"
+  "calendar",
+  "tag-wrangler",
+  "obsidian-style-settings",
+  "obsidian-git"
 ]

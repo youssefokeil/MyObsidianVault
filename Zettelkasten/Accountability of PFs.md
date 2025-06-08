@@ -1,6 +1,6 @@
 Created on: 04-03-2025 16:46
 Status: #idea
-Tags: #ai_gov #ai_safety #AI_eval 
+Tags: #AI/Governance #AI/Safety #AI/evals 
 ### Accountability of PFs
 - Should detail governance structures to incentivize undertaking pre-committed risk mitigations.
 - Profit and shareholder value almost always conflict with risk management.

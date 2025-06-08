@@ -1,6 +1,6 @@
 Created on: 06-02-2025 11:35
 Status: #idea
-Tags: #AI #ai_gov 
+Tags: #AI #AI/Governance 
 # Practically Irreversible Change
 Has long-lasting effects and is extremely costly to revoke and destroys a thing that has no functional equivalent.
 -  Technologies may have practically irreversible societal impacts by enabling new products and capabilities that are so embedded in society our lives become dependent on them. 

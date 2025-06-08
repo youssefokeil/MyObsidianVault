@@ -1,6 +1,6 @@
 Created on: 06-02-2025 10:46
 Status: #idea
-Tags: #AI #ai_gov #ai_safety 
+Tags: #AI #AI/Governance #AI/Safety 
 # Why Build AI
 1. [[Automating Tasks]], and by that reducing price for labor significantly for companies and there is massive economic gain in that way
 2. It can make so much good to the world. If AI is able to do research, it can research meat alternatives to shut factory farms, we can research ways to provide food and shelter for everyone on the world. We can research ageing and cure killer diseases.

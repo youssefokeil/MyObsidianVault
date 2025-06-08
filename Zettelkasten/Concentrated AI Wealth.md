@@ -1,6 +1,6 @@
 Created on: 15-12-2024 16:31
 Status: #idea
-Tags: #case_study #ai_gov #policy_paper 
+Tags: #case_study #AI/Governance #policy_paper 
 # Concentrated AI Wealth
 Wealth due to AI will likely be highly concentrated
 1. Automation will decrease the share of a company's income that goes towards wages, and increase the share of income that gets paid to the company's owners.

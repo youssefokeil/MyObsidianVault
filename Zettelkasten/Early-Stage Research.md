@@ -1,6 +1,6 @@
 Created on: 28-03-2025 13:15
 Status: #idea
-Tags: #ai_safety 
+Tags: #AI/Safety 
 # The Lean Startup Approach
 >you should think of yourself as an entrepreneur trying to build products (i.e. research outputs) that customers (i.e. the broader community) want to consume.
 

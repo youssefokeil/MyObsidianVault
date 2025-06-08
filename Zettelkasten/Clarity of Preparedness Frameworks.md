@@ -1,6 +1,6 @@
 Created on: 04-03-2025 15:40
 Status: #idea
-Tags: #ai_safety #ai_gov #AI_eval 
+Tags: #AI/Safety #AI/Governance #AI/evals 
 ### Clarity of Preparedness Frameworks
 This has a bit of an overlap with risk appetite as the acceptable level of risk should be clearly defined, to leave little room for ambiguity to be used by the developers
 

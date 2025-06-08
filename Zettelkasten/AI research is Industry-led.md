@@ -1,6 +1,6 @@
 Created on: 24-10-2024 02:00
 Status: #idea
-Tags: #ai_gov #ai_safety #AI 
+Tags: #AI/Governance #AI/Safety #AI 
 # AI research is Industry-led
 After Google's acquisition of Deep Mind in 2014, the field of AI research has become industry led. 
 - Most notable ML models were released by academia, before 2014.

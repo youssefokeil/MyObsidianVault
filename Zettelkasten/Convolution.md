@@ -1,6 +1,6 @@
 Created on: 26-03-2024 17:02
 Status: #idea
-Tags: #computer_vision #CNN #signal_processing
+Tags: #computer_vision #AI/CNN #signal_processing
 # Convolution
 
 $$

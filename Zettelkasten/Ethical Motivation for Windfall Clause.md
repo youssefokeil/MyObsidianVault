@@ -1,6 +1,6 @@
 Created on: 12-12-2024 11:50
 Status: #idea
-Tags: #policy_paper #case_study #ai_gov 
+Tags: #policy_paper #case_study #AI/Governance 
 # Ethical Motivation for [[Windfall Clause]]
 1. Historically, economic progress from innovations has not arrived equitably or smoothly, there's a very high probability that we'll have [[Concentrated AI Wealth]];
 		Ex: key technologies from the Industrial Revolution, like factory mechanization, steam power and railroads, generated enormous amount of wealth that accrued to only a few countries and individuals.

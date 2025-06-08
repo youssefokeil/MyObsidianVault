@@ -1,6 +1,6 @@
 Created on: 04-03-2025 16:28
 Status: #idea
-Tags: #AI_eval #ai_gov #ai_safety 
+Tags: #AI/evals #AI/Governance #AI/Safety 
 ### Robustness of Preparedness Frameworks
 - We must ensure that risk mitigations work. This is the most important and difficulty part of the PF.
 ### OpenAI

@@ -1,6 +1,6 @@
 Created on: 24-10-2024 01:37
 Status: #idea
-Tags: #ai_gov #AI #ai_safety 
+Tags: #AI/Governance #AI #AI/Safety 
 # Trump and Biden on AI
 ### Trump:
 - In 2019, he signed an executive for "Maintaining Leadership in AI". Letting companies prioritize development of AI to get ahead of the rest of the world.

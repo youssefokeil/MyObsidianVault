@@ -1,6 +1,6 @@
 Created on: 16-12-2024 14:39
 Status: #idea
-Tags: #case_study #ai_gov #policy_paper 
+Tags: #case_study #AI/Governance #policy_paper 
 # Legal Permissibility
 - We study the corporate law of state of Delaware, since plurality of major American corporations are incorporated there. Due to, its business-friendly tax, legal and regulation policies.
 - Focus on for-profit corporations.

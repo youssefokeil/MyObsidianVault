@@ -1,6 +1,6 @@
 Created on: 16-12-2024 18:46
 Status: #idea
-Tags: #case_study #policy_paper #ai_gov 
+Tags: #case_study #policy_paper #AI/Governance 
 # Historical Precedents of Windfall Clause
 ### Overall Cost of Windfall (Illustrative)
 >Assume company will makes profit of $5(1.8%) trillion in 2060, when the GWP is $268 trillion, using [[Windfall Function]] 

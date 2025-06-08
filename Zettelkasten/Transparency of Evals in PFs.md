@@ -1,6 +1,6 @@
 Created on: 04-03-2025 17:32
 Status: #idea
-Tags: #ai_gov #AI_eval #ai_safety 
+Tags: #AI/Governance #AI/evals #AI/Safety 
 ### Transparency of Evals in PFs
 - Publishing evaluations and mitigations is an important tool for holding developers accountable to their PF commitments.
 - However too much transparency can be exploited by malicious actors.

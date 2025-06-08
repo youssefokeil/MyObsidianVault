@@ -1,6 +1,6 @@
 Created on: 04-03-2025 15:17
 Status: #idea
-Tags: #ai_gov #AI_eval #ai_safety 
+Tags: #AI/Governance #AI/evals #AI/Safety 
 ### Breadth of Potential Catastrophic Risks
 
 - CBRN risks (chemical, bioweapons, radiological, nuclear). How will those AI models enable or aid actors to make bioweapons for example?

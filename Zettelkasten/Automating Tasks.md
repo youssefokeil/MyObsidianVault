@@ -1,6 +1,6 @@
 Created on: 03-02-2025 01:32
 Status: #idea
-Tags: #AI #ai_gov #ai_safety 
+Tags: #AI #AI/Governance #AI/Safety 
 # Automating Tasks
 Large Language Models are used:
 - Evaluate applications

@@ -1,6 +1,6 @@
 Created on: 24-02-2025 19:03
 Status: #idea
-Tags: #ai_safety #ai_gov #AI_eval
+Tags: #AI/Safety #AI/Governance #AI/evals
 # Autonomous Replication & Adaptation (ARA)
 >is a an AI eval by METR to assess the capacity of LLM agents to acquire resources, create copies of themselves, and adapt to novel challenges. 
 

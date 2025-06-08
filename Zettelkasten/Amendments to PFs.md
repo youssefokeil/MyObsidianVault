@@ -1,6 +1,6 @@
 Created on: 04-03-2025 16:55
 Status: #idea
-Tags: #ai_gov #ai_safety #AI_eval 
+Tags: #AI/Governance #AI/Safety #AI/evals 
 ### Amendments to PFs
 The field of AI-related risks and evals is new. We expect that most risks happening in the future are not conceived by us yet. We must ensure that Frontier AI companies will update their preparedness frameworks accordingly.
 
