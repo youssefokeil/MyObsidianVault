@@ -11,15 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Zettelkasten/SB 1047.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "icon": "lucide-file",
+              "title": "SB 1047"
             }
           }
         ]
@@ -114,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/SB 1047.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SB 1047"
             }
           },
           {
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Zettelkasten/SB 1047.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SB 1047"
             }
           },
           {
@@ -191,6 +192,25 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Zettelkasten/Data Model.md",
+    "Zettelkasten/Scientific Truth.md",
+    "Zettelkasten/Software Design.md",
+    "Zettelkasten/Software Testing.md",
+    "Zettelkasten/Solenoid Valve.md",
+    "Zettelkasten/Sorting.md",
+    "Zettelkasten/Classification of Software Systems.md",
+    "Zettelkasten/Checksum.md",
+    "Zettelkasten/Checklist For Windfall vs Kyoto Case Study.md",
+    "Zettelkasten/check.md",
+    "Zettelkasten/Actors on the scene.md",
+    "Zettelkasten/1x1 Convolution.md",
+    "Zettelkasten/1cycle Training.md",
+    "Templates/Book.md",
+    "Zettelkasten/Heuristics.md",
+    "Indexes/HOME.md",
+    "Indexes",
+    "Untitled.canvas",
+    "Zettelkasten/2025-06-08.md",
     "Zettelkasten/Tailwind CSS.md",
     "Zettelkasten/Logic Families.md",
     "Zettelkasten/History of Software Engineering.md",
@@ -200,24 +220,6 @@
     "Zettelkasten/Agile Manifesto.md",
     "Zettelkasten/Actors behind the scene.md",
     "Zettelkasten/Agile.md",
-    "Zettelkasten/1cycle Training.md",
-    "Templates/Algorithm.md",
-    "Zettelkasten/Addressing Modes.md",
-    "Zettelkasten/Adaptation Fund.md",
-    "Zettelkasten/Actors on the scene.md",
-    "Zettelkasten/Accountability of PFs.md",
-    "Templates/Book.md",
-    "Templates/Core Zettel Idea.md",
-    "Templates/Course.md",
-    "Zettelkasten/Clock Skew.md",
-    "Zettelkasten/Climate Justice.md",
-    "Zettelkasten/Producer-Consumer Problem.md",
-    "Zettelkasten/Entity-Relationship Model.md",
-    "Zettelkasten/Policy Paper.md",
-    "Zettelkasten/2025-06-08.md",
-    "Zettelkasten/Policy Brief.md",
-    "Zettelkasten/Be Fully Honest, Stature Be Damned.md",
-    "Untitled.canvas",
     "Files/120283771_CLAYPOT1_1495890635.jpg",
     "Files/Pasted image.png",
     "Files/Screenshot From 2025-05-07 06-33-19.png",
@@ -237,7 +239,6 @@
     "Files/semantic versioning.png.crdownload",
     "Files/4.png.crdownload",
     "Files/inner-outer-alignment-person-diagram-2.png.crdownload",
-    "Files/1-s2.0-S0016328721001932-gr2.jpg.crdownload",
     "demos/Canvas-demo.canvas",
     "Untitled 1.canvas"
   ]
