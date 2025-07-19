@@ -1,6 +1,6 @@
 Created on: 10-07-2024 23:01
 Status: #idea
-Tags: #computer_vision #AI 
+Tags: #AI/computer_vision #AI 
 # Image Classification Problems
 1. **Semantic Gap:** No obvious way to convert raw values to objects.
 2. **Viewpoint Variation:** at different angles, all pixel values change

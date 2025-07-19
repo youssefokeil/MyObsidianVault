@@ -1,6 +1,6 @@
 Created on: 02-10-2023 19:31
 Status: #idea
-Tags: #deeplearning #machinelearning
+Tags: #AI/deeplearning #machinelearning
 # Cross-validation
 
 

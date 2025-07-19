@@ -1,6 +1,6 @@
 Created on: 11-07-2024 01:15
 Status: #idea
-Tags: #AI #computer_vision 
+Tags: #AI #AI/computer_vision 
 # Finding Hyperparameter
 ### Idea 1:
 choose parameters that work best on training set:

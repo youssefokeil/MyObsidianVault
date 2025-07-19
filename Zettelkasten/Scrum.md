@@ -1,4 +1,4 @@
-Created on: 22-04-2025 18:27
+Created on: 22-04-2025 18:27, Note by Youssef Okeil
 Status: #idea
 Tags: #software #agile
 # Scrum

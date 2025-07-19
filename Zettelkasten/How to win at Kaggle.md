@@ -1,6 +1,6 @@
 Created on: 02-10-2023 18:07
 Status: #idea
-Tags: #kaggle #deeplearning
+Tags: #kaggle #AI/deeplearning
 # How to win at Kaggle
 
 -  [[Join the competition early]].

@@ -1,6 +1,6 @@
 Created on: 29-03-2024 08:52
 Status: #idea
-Tags: #computer_vision #AI/CNN #AI #AI/fastai #temporal_data
+Tags: #AI/computer_vision #AI/CNN #AI #AI/fastai #temporal_data
 # Average Pool
 > Is a [[Pooling]] (down-sampling) operation that takes patches of data to output a smaller grid size, helpful to reduce the dimensions of a feature map, without adding new parameters to learn or heavier computation.
 

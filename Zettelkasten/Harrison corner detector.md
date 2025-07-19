@@ -1,6 +1,6 @@
 Created on: 18-09-2024 14:23
 Status: #idea
-Tags: #computer_vision #AI 
+Tags: #AI/computer_vision #AI 
 # Harrison corner detector
 >is a method to extract corners of an image
 ### Steps:

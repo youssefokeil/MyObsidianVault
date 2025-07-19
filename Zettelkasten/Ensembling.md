@@ -1,6 +1,6 @@
 Created on: 02-10-2023 19:24
 Status: #idea
-Tags: #kaggle #deeplearning
+Tags: #kaggle #AI/deeplearning
 # Ensembling
 is a brilliant approach in machine learning, where it combines the predictions of a couple of different models and the ensemble will have better results than any model on its' own.
 ### Tips for Ensembling:

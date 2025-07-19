@@ -1,4 +1,4 @@
-Created on: 28-05-2025 15:48
+Created on: 28-05-2025 15:48 by Youssef Okeil
 Status: #idea
 Tags: #UI #psychology 
 # Learned Helplessness

@@ -1,12 +1,34 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#AI  ",
+      "color": {
+        "a": 1,
+        "rgb": 1452209
+      }
+    },
+    {
+      "query": "tag:#software  ",
+      "color": {
+        "a": 1,
+        "rgb": 2009416
+      }
+    },
+    {
+      "query": "tag:#advice  ",
+      "color": {
+        "a": 1,
+        "rgb": 14704722
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17491337369185922,
-  "close": true
+  "scale": 0.39355509080668316,
+  "close": false
 }

@@ -1,6 +1,6 @@
 Created on: 18-08-2024 16:06
 Status: #idea
-Tags: #AI #preprocessing #computer_vision 
+Tags: #AI #preprocessing #AI/computer_vision 
 # Color Spaces
 > is a color mode to represent digital data into images or vice versa. The point is having a mutual understanding of an encoding to images, so that they can easily be transferred using digital data.
 

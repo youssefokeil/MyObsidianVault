@@ -1,6 +1,6 @@
 Created on: 02-10-2023 18:23
 Status: #idea
-Tags: #kaggle #deeplearning 
+Tags: #kaggle #AI/deeplearning 
 # Read kaggle forums
 
 > Simply following Kaggle forums will take you 80% of the way toward a good solution.

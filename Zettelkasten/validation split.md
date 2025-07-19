@@ -1,6 +1,6 @@
 Created on: 02-10-2023 19:14
 Status: #idea
-Tags: #kaggle #deeplearning 
+Tags: #kaggle #AI/deeplearning 
 # validation split
 **_Making a good validation split is half of your work on a project. To do so you have to:_**
 - According to the dataset and the project. Determine how to split your data. Randomly? Stratified? According to a timestamp?

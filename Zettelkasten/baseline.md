@@ -1,6 +1,6 @@
 Created on: 02-10-2023 19:48
 Status: #idea
-Tags: #machinelearning #deeplearning 
+Tags: #machinelearning #AI/deeplearning 
 # Baseline
 It's the result of making a very simple model (the smaller and simpler, the better). You do the baseline then try more complex approaches and see if your results improve.
 ### Reasons to make a baseline:

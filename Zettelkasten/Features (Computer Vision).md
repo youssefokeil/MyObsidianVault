@@ -1,6 +1,6 @@
 Created on: 18-09-2024 13:37
 Status: #idea
-Tags: #computer_vision #AI 
+Tags: #AI/computer_vision #AI 
 # Features (Computer Vision)
 ### Common Features:
 1. Edges: areas with high intensity gradient (change)

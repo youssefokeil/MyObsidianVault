@@ -1,6 +1,6 @@
 Created on: 10-07-2024 23:36
 Status: #idea
-Tags: #computer_vision #AI 
+Tags: #AI/computer_vision #AI 
 # k-NNs Nearest Neighbor
 ### Trains:
 > by memorizing all data and labels. O(1) constant time as it only assigns pointers.

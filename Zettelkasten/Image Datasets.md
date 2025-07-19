@@ -1,6 +1,6 @@
 Created on: 10-07-2024 23:08
 Status: #idea
-Tags: #computer_vision #AI 
+Tags: #AI/computer_vision #AI 
 # Image Datasets
 ### MNIST
 - Created 1994

@@ -1,6 +1,6 @@
 Created on: 26-01-2025 15:45
 Status: #idea
-Tags: #AI #machinelearning #deeplearning 
+Tags: #AI #machinelearning #AI/deeplearning 
 # Supervised Learning
 > derives patterns from well organized data, usually provided by humans.
 

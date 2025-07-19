@@ -1,6 +1,6 @@
 Created on: 02-10-2023 18:14
 Status: #idea
-Tags: #kaggle #deeplearning 
+Tags: #kaggle #AI/deeplearning 
 # Why join the kaggle competition early
 
 **_Because there's lots of things that will take a ton of time for you to figure out:_**

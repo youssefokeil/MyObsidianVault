@@ -1,6 +1,6 @@
 Created on: 02-10-2023 19:00
 Status: #idea
-Tags: #kaggle #deeplearning 
+Tags: #kaggle #AI/deeplearning 
 # Read blog posts by Top Kagglers
 **_Blog posts are Research papers' younger brother:_**
 - It's a superior than research papers as a place to start.

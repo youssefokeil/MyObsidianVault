@@ -1,6 +1,6 @@
 Created on: 02-10-2023 18:55
 Status: #idea
-Tags: #kaggle #deeplearning 
+Tags: #kaggle #AI/deeplearning 
 # Do small tweaks daily
 ### Tips: 
 - Try different architectures and cover as much ground as possible.

@@ -1,6 +1,6 @@
 Created on: 15-04-2024 07:23
 Status: #idea
-Tags: #AI #AI/fastai #deeplearning 
+Tags: #AI #AI/fastai #AI/deeplearning 
 # 1cycle Training
  is a learning rate scheduling technique developed by Leslie N. Smith, following up on his previous paper [[Cyclical Learning Rates]].
 

@@ -1,6 +1,6 @@
 Created on: 02-10-2023 23:13
 Status: #idea
-Tags: #deeplearning 
+Tags: #AI/deeplearning 
 # Hardware for DL
 Try not to waste so much time checking for hardware. Take it on small steps
 
