@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Database Schema.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Database Schema"
-            }
-          },
-          {
-            "id": "5c8c4f5c6e236da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Image Segmentation.md",
+                "file": "Zettelkasten/Learned Helplessness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Image Segmentation"
-            }
-          },
-          {
-            "id": "5c6b6bc03ec78dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Point, Line & Edge Detection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Point, Line & Edge Detection"
-            }
-          },
-          {
-            "id": "85fa31a514294ab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Interpreting Derivatives for Image Segmentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interpreting Derivatives for Image Segmentation"
-            }
-          },
-          {
-            "id": "45d17d77cb71ea47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Taylor Series.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Taylor Series"
+              "title": "Learned Helplessness"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#data_base  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -135,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "2d8cf16d06c3ef6e",
@@ -278,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zettelkasten/executive functioning.md",
+                "file": "Zettelkasten/Learned Helplessness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,18 +250,18 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of executive functioning"
+              "title": "Graph of Learned Helplessness"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -328,55 +272,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85fa31a514294ab9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Files/Pasted image 20250720010209.png",
-    "Files/Pasted image 20250720005747.png",
-    "Zettelkasten/Taylor Series.md",
-    "Zettelkasten/Point, Line & Edge Detection.md",
-    "Zettelkasten/Interpreting Derivatives for Image Segmentation.md",
-    "Zettelkasten/Image Segmentation.md",
-    "Zettelkasten/DIgital Image Processing.md",
-    "Files/Pasted image 20250720003524.png",
-    "Files/Pasted image 20250719220040.png",
-    "Zettelkasten/executive functioning.md",
-    "Zettelkasten/Database Schema.md",
-    "Files/Pasted image 20250719212421.png",
-    "Zettelkasten/Cross-Correlation.md",
-    "Zettelkasten/Convolution.md",
-    "Zettelkasten/Nonlinear Circuits.md",
-    "Zettelkasten/System.md",
-    "Zettelkasten/Interpretability.md",
-    "Zettelkasten/The Need for Interpretability.md",
-    "Zettelkasten/Myopia.md",
-    "Zettelkasten/Adversarial Process.md",
-    "Zettelkasten/Database.md",
-    "Zettelkasten/Biometrics.md",
-    "Zettelkasten/TCP RTT & Timeout.md",
-    "Zettelkasten/TCP.md",
-    "Zettelkasten/Use a Different Set of Tools.md",
-    "Zettelkasten/Vector Search.md",
-    "Files/Pasted image 20250705185912.png",
-    "Zettelkasten/Servomechanism.md",
-    "Zettelkasten/Scrum.md",
-    "Zettelkasten/Thevenin to Norton.md",
-    "Zettelkasten/Examples of Case Studies.md",
+    "Zettelkasten/Edge AI Embedded.md",
+    "Zettelkasten/Practically Irreversible Change.md",
+    "Zettelkasten/Why Should STMicro Invest their time with us?.md",
+    "Zettelkasten/Why STMicroelectronics?.md",
+    "Zettelkasten/AI Evaluation (for Preparedness Frameworks).md",
+    "Zettelkasten/AI research is Industry-led.md",
+    "Zettelkasten/Debugging Report.md",
+    "Zettelkasten/ForzaETH.md",
+    "Files/Pasted image 20250907150018.png",
+    "Zettelkasten/False Proofs.md",
+    "Zettelkasten/3-Motion Planning.md",
+    "Zettelkasten/4-Control.md",
+    "Zettelkasten/Untitled 2.base",
+    "Zettelkasten/Untitled 1.base",
+    "Files/Pasted image 20250907024612.png",
+    "Files/Pasted image 20250907023424.png",
+    "Files/Pasted image 20250907015552.png",
+    "Files/Pasted image 20250907015518.png",
+    "Files/Pasted image 20250907014004.png",
+    "Files/Pasted image 20250907013744.png",
+    "Zettelkasten/1x1 Convolution.md",
+    "Zettelkasten/Untitled.base",
+    "Files/Pasted image 20250907002906.png",
+    "Zettelkasten/Discrete Event System.md",
+    "Files/Pasted image 20250906181915.png",
+    "Files/Pasted image 20250906181532.png",
+    "Zettelkasten/Join the competition early.md",
+    "Zettelkasten/AI Alignment Research Study Roadmap.md",
+    "Zettelkasten/1-Perception.md",
+    "Zettelkasten/Arthur Miller on Suffering.md",
+    "Zettelkasten/2-State Estimation.md",
+    "Zettelkasten/Analog Signal.md",
+    "Zettelkasten/Block Diagram.md",
+    "Zettelkasten/Control Element.md",
+    "Zettelkasten/Control System Evaluation.md",
+    "Zettelkasten/Controlled Variable.md",
+    "Zettelkasten/Disturbance.md",
+    "Zettelkasten/Flapper-Nozzle System.md",
+    "Zettelkasten/Process-Control Diagram.md",
+    "Research",
     "Untitled.canvas",
     "Books",
     "Indexes",
-    "Files/120283771_CLAYPOT1_1495890635.jpg",
-    "Files/Pasted image.png",
-    "Files/Screenshot From 2025-05-07 06-33-19.png",
-    "Files/Screenshot From 2025-05-07 03-02-16.png",
-    "Files/Screenshot From 2025-05-07 03-01-05.png",
     "Files/mermaid-diagram-2025-04-22-173048.png.crdownload",
     "Files/mermaid-diagram-2025-04-22-161031.png.crdownload",
     "Files/fp&fcp.png.crdownload",
     "Files/whatis-waterfall_model_mobile.png.crdownload",
-    "Files/Unconfirmed 779050.crdownload",
-    "Files/mermaid-diagram-2025-04-10-211542.png.crdownload",
-    "Files/semantic versioning.png.crdownload",
-    "Files/4.png.crdownload",
     "demos/Canvas-demo.canvas",
     "Untitled 1.canvas"
   ]

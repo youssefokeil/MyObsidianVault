@@ -1,4 +1,3 @@
-
 Created on: 04-06-2024 15:31
 Status: #idea
 Tags: #ARM #embedded-systems 

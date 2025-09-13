@@ -1,0 +1,111 @@
+/* Obsidian CSS for Better Page Layout and Header Positioning */
+
+/* Ensure headers always start on a new page */
+@media print {
+    /* Force page breaks before all major headers */
+    h1, h2 {
+        page-break-before: always;
+        break-before: page;
+    }
+    
+    /* Prevent headers from being alone at the bottom of a page */
+    h1, h2, h3, h4, h5, h6 {
+        page-break-after: avoid;
+        break-after: avoid;
+        orphans: 3;
+        widows: 3;
+    }
+    
+    /* Keep headers with their following content */
+    h1, h2, h3, h4, h5, h6 {
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+    
+    /* Ensure at least 3 lines of content follow a header */
+    h1 + *, h2 + *, h3 + *, h4 + *, h5 + *, h6 + * {
+        page-break-before: avoid;
+        break-before: avoid;
+    }
+    
+    /* Prevent breaking immediately after headers */
+    h1, h2, h3, h4, h5, h6 {
+        page-break-after: avoid;
+        break-after: avoid;
+        margin-bottom: 1em;
+    }
+    
+    /* Add some spacing and ensure good flow */
+    p, li, blockquote {
+        orphans: 3;
+        widows: 3;
+    }
+    
+    /* Prevent awkward breaks in lists and code blocks */
+    ul, ol, pre, blockquote, table {
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+    
+    /* Special handling for first-level headers */
+    h1 {
+        margin-top: 0;
+        padding-top: 2em;
+    }
+    
+    /* Don't break the first paragraph after a header */
+    h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+        page-break-before: avoid;
+        break-before: avoid;
+        margin-top: 0;
+    }
+}
+
+/* Optional: For better on-screen viewing too */
+@media screen {
+    /* Add visual separation for headers */
+    h1, h2 {
+        margin-top: 3em;
+        border-top: 2px solid var(--text-accent);
+        padding-top: 1em;
+    }
+    
+    h1:first-child, h2:first-child {
+        margin-top: 0;
+        border-top: none;
+        padding-top: 0;
+    }
+}
+
+/* Alternative version with more aggressive page breaking */
+/* Uncomment the section below if you want even stricter control */
+
+/*
+@media print {
+    .markdown-preview-view h1,
+    .markdown-preview-view h2 {
+        page-break-before: always !important;
+        break-before: page !important;
+    }
+    
+    .markdown-preview-view h3,
+    .markdown-preview-view h4,
+    .markdown-preview-view h5,
+    .markdown-preview-view h6 {
+        page-break-after: avoid !important;
+        break-after: avoid !important;
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+    }
+    
+    .markdown-preview-view h1 + *,
+    .markdown-preview-view h2 + *,
+    .markdown-preview-view h3 + *,
+    .markdown-preview-view h4 + *,
+    .markdown-preview-view h5 + *,
+    .markdown-preview-view h6 + * {
+        page-break-before: avoid !important;
+        break-before: avoid !important;
+    }
+}
+*/
