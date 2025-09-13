@@ -13,15 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Learned Helplessness.md",
+                "file": "Zettelkasten/Database Update.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learned Helplessness"
+              "title": "Database Update"
+            }
+          },
+          {
+            "id": "58eafbabac6d29b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f2af5b298bbef5b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8671b0a70ed968ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +253,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zettelkasten/Learned Helplessness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,14 +280,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Learned Helplessness"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,8 +303,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8671b0a70ed968ed",
   "lastOpenFiles": [
+    "Zettelkasten/Database Update.md",
+    "Files/Pasted image 20250913131623.png",
+    "Files/Pasted image 20250913131103.png",
+    "Zettelkasten/Controlled Variable.md",
+    "Zettelkasten/Learned Helplessness.md",
     "Zettelkasten/Edge AI Embedded.md",
     "Zettelkasten/Practically Irreversible Change.md",
     "Zettelkasten/Why Should STMicro Invest their time with us?.md",
@@ -298,8 +334,6 @@
     "Zettelkasten/Untitled.base",
     "Files/Pasted image 20250907002906.png",
     "Zettelkasten/Discrete Event System.md",
-    "Files/Pasted image 20250906181915.png",
-    "Files/Pasted image 20250906181532.png",
     "Zettelkasten/Join the competition early.md",
     "Zettelkasten/AI Alignment Research Study Roadmap.md",
     "Zettelkasten/1-Perception.md",
@@ -309,10 +343,6 @@
     "Zettelkasten/Block Diagram.md",
     "Zettelkasten/Control Element.md",
     "Zettelkasten/Control System Evaluation.md",
-    "Zettelkasten/Controlled Variable.md",
-    "Zettelkasten/Disturbance.md",
-    "Zettelkasten/Flapper-Nozzle System.md",
-    "Zettelkasten/Process-Control Diagram.md",
     "Research",
     "Untitled.canvas",
     "Books",
