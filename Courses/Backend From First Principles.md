@@ -1,4 +1,3 @@
-Author: [[Author]]
 Type: #Course 
 Fields: #backend #software
 # Course 📚
@@ -17,4 +16,28 @@ Fields: #backend #software
 5. **Authentication & Authorization**
 6. **Validation & Transpprtation**
 7. **Middlewares**
-8. **Request Content**
+8. **Request Context**
+9. **Handlers, controllers & services**
+10. **CRUD Deep Dive**
+11. **REST Best practices**
+12. **Databases**
+13. **Business Logic Layer**
+14. **Caching**
+15. **Transactional Emails**
+16. **Task Queuing & Scheduling**
+17. **Elastic Search**
+18. **Error handling**
+19. **Config Management**
+20. **Logging, monitoring & Observability**
+21. **Graceful Shutdown**
+22. **Security**
+23. **Scaling & performance**
+24. **Concurrency & Parallelism**
+25. **Object storage**
+
+### What Is Backend?
+>computer listening to requests (HTTP, ...) and opens a port, accessible in the internet to receive and sends data.
+
+### Why Not Everything On Frontend?
+1. Computing Power
+2. Database

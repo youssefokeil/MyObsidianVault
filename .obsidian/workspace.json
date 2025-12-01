@@ -25,14 +25,20 @@
             "id": "204f187d8d322a2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Courses/Backend From First Principles.md",
-                "mode": "source",
-                "source": false
+                "file": "Zettelkasten/Kanban To Do List.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Backend From First Principles"
+              "icon": "lucide-trello",
+              "title": "Kanban To Do List"
             }
           }
         ],
@@ -236,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Courses/Backend From First Principles.md",
+                "file": "Zettelkasten/Kanban To Do List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +270,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Backend From First Principles"
+              "title": "Graph of Kanban To Do List"
             }
           }
         ]
@@ -284,13 +290,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "204f187d8d322a2f",
   "lastOpenFiles": [
-    "Zettelkasten/Join the competition early.md",
     "Courses/Backend From First Principles.md",
+    "Zettelkasten/Kanban To Do List.md",
+    "Zettelkasten/Things To DO.md",
+    "Zettelkasten/Join the competition early.md",
     "Zettelkasten/Message Passing Interface MPI.md",
     "Zettelkasten/RL Meeting Minutes 29-11-2025.md",
     "Zettelkasten/Trump and Biden on AI.md",
@@ -316,8 +325,6 @@
     "Zettelkasten/ML Roadmap.md",
     "Zettelkasten/Special Cases of Factorization.md",
     "Zettelkasten/Perfect Square.md",
-    "Zettelkasten/Factorizing Trinomials-2.md",
-    "Zettelkasten/November Revision.md",
     "Files/Pasted image 20251123184405.png",
     "Files/Pasted image 20251123180935.png",
     "Files/Pasted image 20251117123633.png",
