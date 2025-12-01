@@ -3,6 +3,8 @@
   "baseFontSize": 19,
   "enabledCssSnippets": [
     "obsidian-default-theme",
+    "mermaid-fit",
+    "pdf_export",
     "align_image"
   ],
   "cssTheme": "AnuPpuccin"

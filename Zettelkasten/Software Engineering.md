@@ -9,7 +9,7 @@ Tags: #software
 2. [[Software Architecture]]
 3. [[Software Design]]
 4. [[Software Construction]]
-5. [[Software Testing]]
+5. [[Zettelkasten/Software Testing]]
 6. Software Engineering Operations
 7. [[Software Maintenance]]
 8. [[Software Configuration Management]]

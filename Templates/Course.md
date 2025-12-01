@@ -1,5 +1,5 @@
 Author: [[Author]]
-Type: #TextBook 
+Type: #Course 
 Fields: #
 # Course 📚
 

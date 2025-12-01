@@ -1,0 +1,24 @@
+/* Force Heading 2 to start on a new page */
+@media print {
+    h2 {
+      page-break-before: always !important;
+      break-before: always !important;
+    }
+    
+    /* Exception: Don't break before the FIRST h2 */
+    h2:first-of-type {
+      page-break-before: avoid !important;
+    }
+    
+    /* Keep H2 with content below it */
+    h2 {
+      page-break-after: avoid !important;
+      break-after: avoid !important;
+    }
+    
+    /* Keep first element after H2 together */
+    h2 + * {
+      page-break-before: avoid !important;
+      break-before: avoid !important;
+    }
+  }

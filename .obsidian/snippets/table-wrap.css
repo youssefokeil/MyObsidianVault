@@ -1,0 +1,18 @@
+/* Make tables wrap and scroll */
+.markdown-preview-view table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+/* OR make tables fit to page width */
+.markdown-preview-view table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.markdown-preview-view table td,
+.markdown-preview-view table th {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
