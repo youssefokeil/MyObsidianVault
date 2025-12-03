@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Bilal Pre-Exam
 - [ ] BaRead: Translation Table (Books)
 - [ ] BaRead: Translation Table (Clothes)
 - [ ] BaRead: Local Real-Time Recognition
@@ -17,19 +16,21 @@ kanban-plugin: board
 - [ ] Selected: Quiz 2 @{05-12-2025}
 - [ ] Parser Project Start
 - [ ] Selected: Assignment 3
-- [ ] Probability: Chapter 3
 - [ ] Probability: Problem Set 5
 - [ ] BaRead: Edge Functions
 
 
 ## In Progress
 
-- [ ] BaRead: Genres, Languages, Formats & Authors
+- [ ] Probability: Chapter 3
+- [ ] Reading: Republic Book 2
 
 
 ## Done
 
 **Complete**
+- [ ] Bilal Pre-Exam
+- [ ] BaRead: Genres, Languages, Formats & Authors
 
 
 
